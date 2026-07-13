@@ -1,8 +1,7 @@
 {
   "activeUsers": [
-    "jahid009",
-    "unknown1",
+    "YOUR_SECRET_KEY_1",
+    "YOUR_SECRET_KEY_2",
     "YOUR_SECRET_KEY_3"
-  ],
-  "lastUpdated": "2027-07-14"
+  ]
 }
